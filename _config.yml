@@ -1,0 +1,14 @@
+layout_spectrum: 0.6800256
+typography_spectrum: 0.9548199
+color:
+  saturation: 0.9670603
+  lightness: 0.5415217
+  brandStrength: 0.9537598
+  rhythmicContrast: 0.2236629
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Pure
